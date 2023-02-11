@@ -10,3 +10,12 @@ pp [1,2,3,]
  
 dogName = "lucy"
 puts "Say hello to my dog {dogName}"
+
+
+name = "Joe"
+
+def greeting(name)
+   puts "Hello, #{name}"
+end
+
+greeting("Kenpachi")
